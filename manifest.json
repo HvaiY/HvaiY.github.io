@@ -1,14 +1,14 @@
 {
-    "name": "张三",
-    "short_name": "张三",
+    "name": "Hvai",
+    "short_name": "Hvai",
     "start_url": "index.html",
     "display": "standalone",
-    "background_color": "#2196f3",
-    "description": "张三的个人主页",
+    "background_color": "#FFFFFF",
+    "description": "Hvai的个人主页",
     "theme_color": "blue",
     "icons": [
       {
-        "src": "./photo.jpg",
+        "src": "./logo.jpg",
         "sizes": "144x144",
         "type": "image/png"
       }
